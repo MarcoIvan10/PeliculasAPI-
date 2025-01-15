@@ -1,0 +1,74 @@
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.staticwebassets.endpoints.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.exe
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.deps.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.runtimeconfig.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\scopedcss\bundle\PeliculasAPI.styles.css
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\Pelicula.4B037ECC.Up2Date
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\refint\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documents\Desarrollando Aplicaciones en Angular 19 y ASP.NET Core 9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\ref\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\appsettings.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.staticwebassets.endpoints.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.exe
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.deps.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.runtimeconfig.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\scopedcss\bundle\PeliculasAPI.styles.css
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.PeliculasAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.build.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PeliculasAPI.props
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\Pelicula.4B037ECC.Up2Date
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\refint\PeliculasAPI.dll
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.pdb
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\PeliculasAPI.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documents\Angular19_ASP.NETCore9\PeliculasAPI\PeliculasAPI\obj\Debug\net9.0\ref\PeliculasAPI.dll
